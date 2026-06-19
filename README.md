@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Imani Davis
 
-<!--
-**imanimdavisb/imanimdavisb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Morehouse College graduate interested in AI, operations, and technology.
 
-Here are some ideas to get you started:
+## Current Projects
+- Natalie's Activity Planner
+- Amazon Shift Helper
+- AI Resume Helper (Coming Soon)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+- Claude 101
+- AI Fluency: Framework & Foundations
+
+## Experience
+- Amazon Fulfillment Associate
+- Operations and Logistics
+- Mentoring and Tutoring
+
+## Currently Learning
+- Python
+- GitHub
+- AI Applications
