@@ -17,6 +17,8 @@ Morehouse College graduate interested in AI, operations, and technology.
 - Mentoring and Tutoring
 
 ## Currently Learning
-- Python
-- GitHub
-- AI Applications
+Goals for 2026
+- Complete CodePath Cybersecurity
+- Build AI projects for community organizations
+- Grow my Python skills
+- Pursue opportunities in operations and technology
