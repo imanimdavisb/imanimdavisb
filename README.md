@@ -1,62 +1,61 @@
-Hi, I'm Imani Davis
+# Hi, I'm Imani Davis 👋
 
-Morehouse College graduate with a background in operations, community engagement, mentoring, and technology. I'm passionate about using AI and practical technology solutions to help organizations improve processes, support communities, and solve real-world problems.
+Morehouse College graduate with experience in operations, community engagement, mentoring, and AI-assisted technology projects. I'm passionate about building practical tools that improve processes, support communities, and solve real-world problems.
 
-Current Projects
-Claude Community Resource Navigator
+## Featured Projects
 
-A Claude-inspired Python tool that helps organize community support needs into resource categories, follow-up questions, suggested next steps, and staff summaries.
+### Claude Community Resource Navigator
 
-Eminent Wellness Support Assistant
+A Python-based tool that helps social service staff identify client needs, assess urgency, generate follow-up questions, and recommend next steps.
 
-A Python-based intake tool designed to help wellness and community organizations identify participant needs and recommend support resources.
+### Eminent Wellness Support Assistant
 
-Community Resource Finder
+A wellness intake tool designed to help community organizations identify participant needs and connect individuals with appropriate support resources.
 
-A Python application that helps users locate food assistance and community support resources by ZIP code, organization name, or resource type.
+### AI Resume Helper
 
-AI Resume Helper
+A Python application that generates resume bullet-point suggestions based on skills, experience, and career goals.
 
-A Python tool that generates resume bullet point suggestions based on career goals, skills, and work experience.
+### Claude Personal Finance Dashboard
 
-Amazon Shift Helper
+A Python-based finance dashboard that tracks income and expenses, categorizes spending, generates reports, and highlights savings opportunities.
 
-A Python application that estimates weekly earnings and overtime pay based on hours worked and hourly pay rate.
+## Certifications
 
-Natalie D Activity Planner
+* Claude 101
+* AI Fluency: Framework & Foundations
 
-A beginner Python project that recommends activities for toddlers based on mood and weather conditions.
+## Experience
 
-Certifications
-Claude 101
-AI Fluency: Framework & Foundations
-Experience
-Amazon Fulfillment Associate
-Morehouse Marketing Association President
-Eminent Group Consultants Volunteer
-Mentoring and Tutoring
-Operations and Logistics
-Community Outreach and Engagement
-Technical Skills
-Python
-GitHub
-Artificial Intelligence (AI)
-Prompt Engineering
-Microsoft Excel
-Data Analysis
-Process Improvement
-Community Resource Navigation
-Current Learning Goals
-Goals for 2026
-Complete CodePath Cybersecurity
-Build AI projects for community organizations
-Expand my Python programming skills
-Learn more about AI workflows and automation
-Pursue opportunities in operations, technology, and public-service innovation
-Interests
-Artificial Intelligence
-Community Impact
-Workforce Development
-Public Service Technology
-Operations and Process Improvement
-Mentoring and Leadership Development
+* Amazon Fulfillment Associate
+* Morehouse Marketing Association President
+* Eminent Group Consultants Volunteer
+* Mentor and Tutor
+* Community Outreach and Engagement
+
+## Technical Skills
+
+* Python
+* GitHub
+* Artificial Intelligence (AI)
+* Prompt Engineering
+* Microsoft Excel
+* Data Analysis
+* Process Improvement
+
+## Current Learning Goals
+
+* Complete CodePath Cybersecurity
+* Expand Python programming skills
+* Learn AI workflows and automation
+* Build technology solutions for community organizations
+* Pursue opportunities in operations, technology, and public-service innovation
+
+## Interests
+
+* Artificial Intelligence
+* Community Impact
+* Workforce Development
+* Public Service Technology
+* Operations and Process Improvement
+* Leadership Development
